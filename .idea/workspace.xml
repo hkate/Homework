@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b69d5045-ddda-4c5f-91e6-bf02e7dc76e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/ford_escort/CSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/ford_escort/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/ford_escort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/ford_escort/CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/ford_escort/CSVReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/ford_escort/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/ford_escort/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/ford_escort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/ford_escort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/ford_escort/ford_escort.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/ford_escort/ford_escort.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
