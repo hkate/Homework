@@ -43,12 +43,16 @@ public class CSVReader {
         car.setPrice(Integer.parseInt(fields[2]));
         return car;
     }
+
+    public void Sort(int year) throws FileNotFoundException{
+        List<Car> carList = readCarsFromCSV();
+    }
     public void Byyear(int year) throws FileNotFoundException{
         List<Car> carList = readCarsFromCSV();
         for(int i = 0; i < carList.size(); i++){
             if (year == carList.get(i).getYear() )
                 System.out.println(carList.get(i));
-        };
+        }
     }
 
     public void Range(int first, int second) throws FileNotFoundException{
@@ -56,7 +60,7 @@ public class CSVReader {
         for(int i = 0; i < carList.size(); i++){
             if (first < carList.get(i).getMileage() && carList.get(i).getMileage() < second )
                 System.out.println(carList.get(i));
-        };
+        }
     }
 
     public void Price(int price) throws FileNotFoundException{
@@ -64,7 +68,7 @@ public class CSVReader {
         for(int i = 0; i < carList.size(); i++){
             if (price > carList.get(i).getPrice() )
                 System.out.println(carList.get(i));
-        };
+        }
     }
 }
 
